@@ -1,2 +1,2 @@
-# OOPJava
-Learn object oriented programming with Java
+# ArrayCopyOfDemo
+Deomo copyOfRange method
